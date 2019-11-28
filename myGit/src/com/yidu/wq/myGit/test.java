@@ -2,7 +2,8 @@ package com.yidu.wq.myGit;
 
 public class test {
 	public static void main(String[] args) {
-		System.out.println("Ìúº©º©");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+		System.out.println("å“ˆå“ˆ");
 
 	}
 }
