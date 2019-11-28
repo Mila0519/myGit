@@ -2,7 +2,7 @@ package com.yidu.wq.myGit;
 
 public class test {
 	public static void main(String[] args) {
-		System.out.println("ÍõÈºÊÇ¸öº©º©");
-		
+		System.out.println("ÃÃµÃˆÂºÃŠÃ‡Â¸Ã¶ÂºÂ©ÂºÂ©");
+		System.out.println("git to local");
 	}
 }
